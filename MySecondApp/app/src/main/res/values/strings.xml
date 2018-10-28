@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Second App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_water">Water Bottles</string>
+    <string name="about">About</string>
+    <string name="where_to_recycle">Where to Recycle</string>
+    <string name="foods">Foods</string>
+    <string name="title_activity_display_foods">DisplayFoods</string>
+    <string name="water_bottles">Water Bottles</string>
+    <string name="glass_bottles">Glass Bottles</string>
+    <string name="coffee_cups">Coffee Cups</string>
+    <string name="soda_cans">Soda Cans</string>
+    <string name="title_activity_pizza_boxes">PizzaBoxes</string>
+    <string name="title_activity_appliance_map">Map</string>
+    <string name="technology">Technology</string>
+    <string name="appliances">Appliances</string>
+    <string name="shopping_bags">Shopping Bags</string>
+    <string name="paper">Paper</string>
+    <string name="title_activity_tech_map">Map</string>
+</resources>
